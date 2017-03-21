@@ -27,7 +27,9 @@
     "favicon": "",
     "noImageResize": "",
     "cookiesAlert": "",
-    "google-analytics": ""
+    "google-analytics": "",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -45,6 +47,19 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
+              "color": "#efefef",
+              "text-align": "right",
+              "font-size": "32px"
+            },
+            "P": {
+              "color": "#efefef",
+              "text-align": "right"
+            }
+          },
           "_anchor": "msg-box5-1",
           "_params": {
             "imageSize": "70",
@@ -91,20 +106,7 @@
           },
           "title": "&nbsp; &nbsp;ALMA ELLEN",
           "text": "Studio Elite Portfolio",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#gallery2-4\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>GALLERY</a>",
-          "_styles": {
-            "H3": {
-              "font-family": "'Merriweather', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
-              "color": "#efefef",
-              "text-align": "right",
-              "font-size": "32px"
-            },
-            "P": {
-              "color": "#efefef",
-              "text-align": "right"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#gallery2-4\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>GALLERY</a>"
         },
         {
           "_styles": {
@@ -369,7 +371,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#553982!important"
             }
           },
           "_tags": [
@@ -383,7 +385,7 @@
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": true,
+            "transparent": false,
             "sticky": true,
             "logo": true,
             "showBrand": false,
@@ -414,6 +416,11 @@
             "Theme"
           ],
           "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          },
           "_anchor": "form1-5",
           "_params": {
             "labelsColor": "#232323",
@@ -459,12 +466,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT</a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT</a>"
         },
         {
           "_tags": [
