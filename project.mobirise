@@ -12,7 +12,7 @@
         "infoColor": "#7e9b9f",
         "warningColor": "#f3c649",
         "dangerColor": "#f28281",
-        "titleFont": "Merriweather",
+        "titleFont": "Montserrat",
         "subtitleFont": "Lora",
         "textFont": "Raleway",
         "isRoundedButtons": true,
@@ -49,8 +49,8 @@
           "_name": "msg-box5",
           "_styles": {
             "H3": {
-              "font-family": "'Merriweather', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
               "color": "#efefef",
               "text-align": "right",
               "font-size": "32px"

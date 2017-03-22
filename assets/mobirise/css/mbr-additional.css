@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Merriweather:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 
@@ -37,7 +37,7 @@ h6,
 .mbr-gallery-title,
 .mbr-map [data-state-details],
 .mbr-price {
-  font-family: 'Merriweather', serif;
+  font-family: 'Montserrat', sans-serif;
 }
 .mbr-footer-content h1,
 .mbr-footer .mbr-contacts h1,
@@ -51,7 +51,7 @@ h6,
 .mbr-footer .mbr-contacts p strong,
 .mbr-footer-content strong,
 .mbr-footer .mbr-contacts strong {
-  font-family: 'Merriweather', serif;
+  font-family: 'Montserrat', sans-serif;
 }
 .btn {
   border-radius: 1.6em;
@@ -69,13 +69,13 @@ h6,
   font-family: 'Lora', serif;
 }
 .mbr-author-name {
-  font-family: 'Merriweather', serif;
+  font-family: 'Montserrat', sans-serif;
 }
 .mbr-author-desc {
   font-family: 'Lora', serif;
 }
 .mbr-plan-title {
-  font-family: 'Merriweather', serif;
+  font-family: 'Montserrat', sans-serif;
 }
 .mbr-plan-subtitle,
 .mbr-plan-price-desc {
@@ -416,7 +416,7 @@ h6,
   color: #553982;
 }
 #msg-box5-1 H3 {
-  font-family: 'Merriweather', serif;
+  font-family: 'Montserrat', sans-serif;
   color: #efefef;
   text-align: right;
   font-size: 32px;
